@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/flowerItem"
+        android:icon="@drawable/ic_flower"
+        android:title="꽃" />
+    <item
+        android:id="@+id/treeItem"
+        android:icon="@drawable/ic_herb"
+        android:title="허브" />
+    <item
+        android:id="@+id/succulentItem"
+        android:icon="@drawable/ic_cactus"
+        android:title="다육이" />
+</menu>
